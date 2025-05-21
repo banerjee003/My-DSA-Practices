@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-#define MAX 4
+#define MAX 100
 int stack_arr[MAX];
 int top=-1;
 
@@ -25,7 +25,7 @@ void push(int data){
 
 int pop(){
     if(top==-1){
-        printf("Stack Overflow\n");
+        printf("Stack Underflow\n");
         exit(1);
     }
     int value=stack_arr[top];
@@ -40,20 +40,53 @@ void show(){
     printf("\n");
 }
 
-int main(){
+int peek() {
+    if (top == -1) {
+        printf("Stack is empty\n");
+        return -1;  
+    }
+    return stack_arr[top];
+}
 
-for(int i=0;i<MAX;i++){
+int main(){
+int a;
+printf("Enter the no of elements to add ");
+scanf("%d",&a);
+for(int i=0;i<a;i++){
     int a;
     printf("Enter the element no %d ",i+1);
     scanf("%d",&a);
     push(a);
 }
 
-show();
-
-pop();
-
-show();
+int choice=0,data;
+while(1){
+    printf("\n1. Push\n2. Pop\n3. Print the top element\n4. print all the elements of the stack\n5. Quit\nPlease enter your choice ");
+    scanf("%d",&choice);
+    switch(choice){
+        case 1:
+            printf("Enter the element to be pushed ");
+            scanf("%d",&data);
+            push(data);
+            break;
+        case 2:
+            printf("The popped out element is %d",pop());
+            break;
+        case 3:
+            printf("Top element is: %d\n", peek());
+            break;
+        case 4:
+            show();
+            break;
+        case 5:
+            exit(1);
+            break;
+        default:
+        printf("Wrong Choice\n");
+        
+    }
+    
+}
 
 return 0;
 }

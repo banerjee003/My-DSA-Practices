@@ -1,1 +1,26 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# My-DSA-Practices
+
+Welcome to my Data Structures and Algorithms (DSA) practice repository. This project serves as a centralized workspace for implementing fundamental data structures, exploring classic algorithms, and tracking solutions to various problem-solving challenges.
+
+---
+
+## 🚀 Repository Purpose
+
+* **Foundational Concepts:** Implementing core data structures and standard sorting/searching algorithms from scratch to understand their underlying mechanics.
+* **Problem Solving:** Solving algorithmic challenges from platforms like LeetCode to sharpen analytical thinking and optimization skills.
+* **Complexity Analysis:** Focusing on writing clean code while evaluating time and space complexity ($O(n)$, $O(\log n)$, etc.).
+
+---
+
+## 🛠️ Getting Started
+
+### Prerequisites
+To compile and run the programs locally, you need a C/C++ compiler installed:
+* GCC (GNU Compiler Collection) or Clang.
+
+### Compilation and Execution
+Navigate to the desired directory and run the following commands in your terminal:
+
+```bash
+gcc filename.c -o output
+./output

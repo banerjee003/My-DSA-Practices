@@ -24,3 +24,15 @@ Navigate to the desired directory and run the following commands in your termina
 ```bash
 gcc filename.c -o output
 ./output
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->

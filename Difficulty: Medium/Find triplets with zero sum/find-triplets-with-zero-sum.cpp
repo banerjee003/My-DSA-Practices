@@ -3,9 +3,7 @@ class Solution {
     bool findTriplets(vector<int> &arr) {
         // code here
         if(arr.size() < 3) return false;
-        
-        sort(arr.begin(), arr.end());
-        
+   
         for(int i = 0; i < arr.size()-2; i++){
             int sum = arr[i];
             int target = 0 - sum;

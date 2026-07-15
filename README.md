@@ -31,6 +31,7 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/banerjee003/My-DSA-Practices/tree/master/0078-subsets) |
 | [1331-rank-transform-of-an-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/1331-rank-transform-of-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/banerjee003/My-DSA-Practices/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2615-sum-of-distances](https://github.com/banerjee003/My-DSA-Practices/tree/master/2615-sum-of-distances) |
@@ -63,5 +64,10 @@ gcc filename.c -o output
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/banerjee003/My-DSA-Practices/tree/master/0078-subsets) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/banerjee003/My-DSA-Practices/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/banerjee003/My-DSA-Practices/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

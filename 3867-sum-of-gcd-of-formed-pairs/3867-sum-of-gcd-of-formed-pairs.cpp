@@ -1,15 +1,5 @@
 class Solution {
 public:
-    int getGcd(int n, int m){
-        int gcd = 1;
-        for(int i = 2; i <= min(n,m); i++){
-            if(n % i == 0 and m % i == 0){
-                gcd = i;
-            }
-        }
-        return gcd;
-    }
-
     long long gcdSum(vector<int>& nums) {
         int n = nums.size();
         vector<int>prefixGcd(n,0);

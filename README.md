@@ -35,6 +35,7 @@ gcc filename.c -o output
 | [1331-rank-transform-of-an-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/1331-rank-transform-of-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/banerjee003/My-DSA-Practices/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2615-sum-of-distances](https://github.com/banerjee003/My-DSA-Practices/tree/master/2615-sum-of-distances) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/banerjee003/My-DSA-Practices/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,10 +46,12 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/banerjee003/My-DSA-Practices/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/banerjee003/My-DSA-Practices/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/banerjee003/My-DSA-Practices/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/banerjee003/My-DSA-Practices/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -57,11 +60,13 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/banerjee003/My-DSA-Practices/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/banerjee003/My-DSA-Practices/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/banerjee003/My-DSA-Practices/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/banerjee003/My-DSA-Practices/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -75,4 +80,5 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/banerjee003/My-DSA-Practices/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/banerjee003/My-DSA-Practices/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->

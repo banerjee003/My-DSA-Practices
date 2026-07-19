@@ -107,8 +107,21 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/0387-first-unique-character-in-a-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/banerjee003/My-DSA-Practices/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/banerjee003/My-DSA-Practices/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/banerjee003/My-DSA-Practices/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/banerjee003/My-DSA-Practices/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->

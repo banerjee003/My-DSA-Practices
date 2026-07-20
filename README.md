@@ -32,6 +32,7 @@ gcc filename.c -o output
 | ------- |
 | [0001-two-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/banerjee003/My-DSA-Practices/tree/master/0078-subsets) |
+| [0435-non-overlapping-intervals](https://github.com/banerjee003/My-DSA-Practices/tree/master/0435-non-overlapping-intervals) |
 | [1260-shift-2d-grid](https://github.com/banerjee003/My-DSA-Practices/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -68,6 +69,7 @@ gcc filename.c -o output
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/banerjee003/My-DSA-Practices/tree/master/0435-non-overlapping-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/banerjee003/My-DSA-Practices/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -124,6 +126,7 @@ gcc filename.c -o output
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/banerjee003/My-DSA-Practices/tree/master/0435-non-overlapping-intervals) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/banerjee003/My-DSA-Practices/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -133,4 +136,8 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/banerjee003/My-DSA-Practices/tree/master/1260-shift-2d-grid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/banerjee003/My-DSA-Practices/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->

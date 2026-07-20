@@ -39,6 +39,7 @@ gcc filename.c -o output
 | [1979-find-greatest-common-divisor-of-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/banerjee003/My-DSA-Practices/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/banerjee003/My-DSA-Practices/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/banerjee003/My-DSA-Practices/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2615-sum-of-distances](https://github.com/banerjee003/My-DSA-Practices/tree/master/2615-sum-of-distances) |
 | [3312-sorted-gcd-pair-queries](https://github.com/banerjee003/My-DSA-Practices/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/banerjee003/My-DSA-Practices/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -73,6 +74,7 @@ gcc filename.c -o output
 | [0435-non-overlapping-intervals](https://github.com/banerjee003/My-DSA-Practices/tree/master/0435-non-overlapping-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/1331-rank-transform-of-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/banerjee003/My-DSA-Practices/tree/master/1710-maximum-units-on-a-truck) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/banerjee003/My-DSA-Practices/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/banerjee003/My-DSA-Practices/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -131,6 +133,7 @@ gcc filename.c -o output
 | [0435-non-overlapping-intervals](https://github.com/banerjee003/My-DSA-Practices/tree/master/0435-non-overlapping-intervals) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/banerjee003/My-DSA-Practices/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1710-maximum-units-on-a-truck](https://github.com/banerjee003/My-DSA-Practices/tree/master/1710-maximum-units-on-a-truck) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/banerjee003/My-DSA-Practices/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Monotonic Stack
 |  |
 | ------- |

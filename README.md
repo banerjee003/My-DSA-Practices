@@ -42,6 +42,7 @@ gcc filename.c -o output
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/banerjee003/My-DSA-Practices/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2615-sum-of-distances](https://github.com/banerjee003/My-DSA-Practices/tree/master/2615-sum-of-distances) |
 | [3312-sorted-gcd-pair-queries](https://github.com/banerjee003/My-DSA-Practices/tree/master/3312-sorted-gcd-pair-queries) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/banerjee003/My-DSA-Practices/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -82,6 +83,7 @@ gcc filename.c -o output
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/banerjee003/My-DSA-Practices/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/banerjee003/My-DSA-Practices/tree/master/3312-sorted-gcd-pair-queries) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/banerjee003/My-DSA-Practices/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/banerjee003/My-DSA-Practices/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
@@ -89,6 +91,7 @@ gcc filename.c -o output
 | ------- |
 | [0078-subsets](https://github.com/banerjee003/My-DSA-Practices/tree/master/0078-subsets) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/banerjee003/My-DSA-Practices/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Backtracking
 |  |
 | ------- |

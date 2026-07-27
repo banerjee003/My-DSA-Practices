@@ -60,6 +60,7 @@ gcc filename.c -o output
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/banerjee003/My-DSA-Practices/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/banerjee003/My-DSA-Practices/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/banerjee003/My-DSA-Practices/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -182,4 +183,8 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/banerjee003/My-DSA-Practices/tree/master/0144-binary-tree-preorder-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/banerjee003/My-DSA-Practices/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->

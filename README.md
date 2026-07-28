@@ -87,6 +87,7 @@ gcc filename.c -o output
 | [1710-maximum-units-on-a-truck](https://github.com/banerjee003/My-DSA-Practices/tree/master/1710-maximum-units-on-a-truck) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/banerjee003/My-DSA-Practices/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/banerjee003/My-DSA-Practices/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/banerjee003/My-DSA-Practices/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -135,6 +136,7 @@ gcc filename.c -o output
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/0387-first-unique-character-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/banerjee003/My-DSA-Practices/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Queue
 |  |
 | ------- |
@@ -213,4 +215,8 @@ gcc filename.c -o output
 | [0104-maximum-depth-of-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->

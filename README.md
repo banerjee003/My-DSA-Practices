@@ -203,6 +203,7 @@ gcc filename.c -o output
 | [0572-subtree-of-another-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/banerjee003/My-DSA-Practices/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -218,6 +219,7 @@ gcc filename.c -o output
 | [0572-subtree-of-another-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/banerjee003/My-DSA-Practices/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
 | ------- |
@@ -234,6 +236,7 @@ gcc filename.c -o output
 | [0572-subtree-of-another-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/banerjee003/My-DSA-Practices/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Linked List
 |  |

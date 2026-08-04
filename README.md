@@ -49,6 +49,7 @@ gcc filename.c -o output
 | [2615-sum-of-distances](https://github.com/banerjee003/My-DSA-Practices/tree/master/2615-sum-of-distances) |
 | [3312-sorted-gcd-pair-queries](https://github.com/banerjee003/My-DSA-Practices/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3731-find-missing-elements](https://github.com/banerjee003/My-DSA-Practices/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/banerjee003/My-DSA-Practices/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -59,6 +60,7 @@ gcc filename.c -o output
 | [2615-sum-of-distances](https://github.com/banerjee003/My-DSA-Practices/tree/master/2615-sum-of-distances) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/banerjee003/My-DSA-Practices/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/banerjee003/My-DSA-Practices/tree/master/3312-sorted-gcd-pair-queries) |
+| [3731-find-missing-elements](https://github.com/banerjee003/My-DSA-Practices/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,6 +94,7 @@ gcc filename.c -o output
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/banerjee003/My-DSA-Practices/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/banerjee003/My-DSA-Practices/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/banerjee003/My-DSA-Practices/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/banerjee003/My-DSA-Practices/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |

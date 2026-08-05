@@ -225,6 +225,7 @@ gcc filename.c -o output
 | [0965-univalued-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/banerjee003/My-DSA-Practices/tree/master/1325-delete-leaves-with-a-given-value) |
+| [3310-remove-methods-from-project](https://github.com/banerjee003/My-DSA-Practices/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -258,6 +259,7 @@ gcc filename.c -o output
 | [0965-univalued-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/banerjee003/My-DSA-Practices/tree/master/3310-remove-methods-from-project) |
 ## Counting Sort
 |  |
 | ------- |
@@ -274,4 +276,8 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/0877-stone-game) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/banerjee003/My-DSA-Practices/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->

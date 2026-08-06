@@ -105,6 +105,7 @@ gcc filename.c -o output
 | [1979-find-greatest-common-divisor-of-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/banerjee003/My-DSA-Practices/tree/master/3312-sorted-gcd-pair-queries) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/banerjee003/My-DSA-Practices/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/banerjee003/My-DSA-Practices/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -280,4 +281,8 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/banerjee003/My-DSA-Practices/tree/master/3310-remove-methods-from-project) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->

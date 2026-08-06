@@ -205,6 +205,7 @@ gcc filename.c -o output
 | [0199-binary-tree-right-side-view](https://github.com/banerjee003/My-DSA-Practices/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/banerjee003/My-DSA-Practices/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0965-univalued-binary-tree) |
@@ -239,6 +240,7 @@ gcc filename.c -o output
 | [0199-binary-tree-right-side-view](https://github.com/banerjee003/My-DSA-Practices/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/banerjee003/My-DSA-Practices/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0965-univalued-binary-tree) |
@@ -285,4 +287,8 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/3345-smallest-divisible-digit-product-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/banerjee003/My-DSA-Practices/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->

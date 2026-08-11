@@ -265,6 +265,7 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/banerjee003/My-DSA-Practices/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0206-reverse-linked-list](https://github.com/banerjee003/My-DSA-Practices/tree/master/0206-reverse-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -305,4 +306,8 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/banerjee003/My-DSA-Practices/tree/master/0450-delete-node-in-a-bst) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/banerjee003/My-DSA-Practices/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

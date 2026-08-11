@@ -19,14 +19,10 @@ public:
             m[nums[i]]++;
         }
 
-        while(true){
-            if(!m.count(sum)){
-                return sum;
-            }
-            else{
-                sum++;
-            }
+        while(m.count(sum)){
+            sum++;
         }
+        
         return sum;
     }
 };

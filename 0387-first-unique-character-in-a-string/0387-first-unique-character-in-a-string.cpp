@@ -3,8 +3,8 @@ public:
     int firstUniqChar(string s) {
         int freq[26] = {0};
 
-        for(char i : s){
-            freq[i - 'a']++;
+        for(char c : s){
+            freq[c - 'a']++;
         }
 
         for(int i = 0; i < s.size(); i++){

@@ -38,6 +38,7 @@ gcc filename.c -o output
 | [0496-next-greater-element-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/banerjee003/My-DSA-Practices/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/banerjee003/My-DSA-Practices/tree/master/0646-maximum-length-of-pair-chain) |
+| [0704-binary-search](https://github.com/banerjee003/My-DSA-Practices/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/0877-stone-game) |
 | [1200-minimum-absolute-difference](https://github.com/banerjee003/My-DSA-Practices/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/banerjee003/My-DSA-Practices/tree/master/1260-shift-2d-grid) |
@@ -140,6 +141,7 @@ gcc filename.c -o output
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/banerjee003/My-DSA-Practices/tree/master/0704-binary-search) |
 | [3312-sorted-gcd-pair-queries](https://github.com/banerjee003/My-DSA-Practices/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |

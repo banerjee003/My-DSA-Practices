@@ -154,6 +154,7 @@ gcc filename.c -o output
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/0387-first-unique-character-in-a-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/banerjee003/My-DSA-Practices/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -169,6 +170,7 @@ gcc filename.c -o output
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/banerjee003/My-DSA-Practices/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/banerjee003/My-DSA-Practices/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/banerjee003/My-DSA-Practices/tree/master/0145-binary-tree-postorder-traversal) |
@@ -310,4 +312,8 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/banerjee003/My-DSA-Practices/tree/master/0206-reverse-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

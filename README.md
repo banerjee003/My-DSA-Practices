@@ -34,6 +34,7 @@ gcc filename.c -o output
 | [0041-first-missing-positive](https://github.com/banerjee003/My-DSA-Practices/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/banerjee003/My-DSA-Practices/tree/master/0078-subsets) |
+| [0347-top-k-frequent-elements](https://github.com/banerjee003/My-DSA-Practices/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/banerjee003/My-DSA-Practices/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/banerjee003/My-DSA-Practices/tree/master/0628-maximum-product-of-three-numbers) |
@@ -65,6 +66,7 @@ gcc filename.c -o output
 | ------- |
 | [0001-two-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/banerjee003/My-DSA-Practices/tree/master/0041-first-missing-positive) |
+| [0347-top-k-frequent-elements](https://github.com/banerjee003/My-DSA-Practices/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/1331-rank-transform-of-an-array) |
@@ -98,6 +100,7 @@ gcc filename.c -o output
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/banerjee003/My-DSA-Practices/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/banerjee003/My-DSA-Practices/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/banerjee003/My-DSA-Practices/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/banerjee003/My-DSA-Practices/tree/master/0646-maximum-length-of-pair-chain) |
@@ -162,6 +165,7 @@ gcc filename.c -o output
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/banerjee003/My-DSA-Practices/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/banerjee003/My-DSA-Practices/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/banerjee003/My-DSA-Practices/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -226,6 +230,7 @@ gcc filename.c -o output
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/banerjee003/My-DSA-Practices/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Tree
 |  |
@@ -352,4 +357,16 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/banerjee003/My-DSA-Practices/tree/master/2029-stone-game-ix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/banerjee003/My-DSA-Practices/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/banerjee003/My-DSA-Practices/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/banerjee003/My-DSA-Practices/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

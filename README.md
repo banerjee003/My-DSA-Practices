@@ -276,6 +276,7 @@ gcc filename.c -o output
 | [0226-invert-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/banerjee003/My-DSA-Practices/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -313,6 +314,7 @@ gcc filename.c -o output
 | [0104-maximum-depth-of-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/banerjee003/My-DSA-Practices/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/banerjee003/My-DSA-Practices/tree/master/0547-number-of-provinces) |
 | [0965-univalued-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -338,6 +340,7 @@ gcc filename.c -o output
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/banerjee003/My-DSA-Practices/tree/master/0547-number-of-provinces) |
 | [3310-remove-methods-from-project](https://github.com/banerjee003/My-DSA-Practices/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
@@ -384,4 +387,8 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/banerjee003/My-DSA-Practices/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/banerjee003/My-DSA-Practices/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->

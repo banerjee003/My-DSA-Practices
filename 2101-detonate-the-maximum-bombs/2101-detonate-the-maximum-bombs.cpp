@@ -1,15 +1,14 @@
 class Solution {
 public:
-    int dfs(int u, vector<vector<int>>& adj, vector<int>&vis){
+    void dfs(int u, vector<vector<int>>& adj, vector<int>&vis, int &count){
         vis[u] = 1;
-        int count = 1;
+        count++;
 
         for(int i : adj[u]){
             if(!vis[i]){
-                count += dfs(i, adj, vis);
+                dfs(i, adj, vis, count);
             }
         }
-        return count;
     }
 
     int maximumDetonation(vector<vector<int>>& bomb) {
@@ -36,7 +35,9 @@ public:
 
         for(int i = 0; i < n; i++){
             vector<int>vis(n,0);
-            maxBomb = max(maxBomb, dfs(i, adj, vis));
+            int count = 0;
+            dfs(i, adj, vis, count);
+            maxBomb = max(maxBomb, count);
         }
 
         return maxBomb;

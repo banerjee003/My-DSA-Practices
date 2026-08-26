@@ -54,6 +54,7 @@ gcc filename.c -o output
 | [1331-rank-transform-of-an-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/banerjee003/My-DSA-Practices/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/banerjee003/My-DSA-Practices/tree/master/1386-cinema-seat-allocation) |
+| [1441-build-an-array-with-stack-operations](https://github.com/banerjee003/My-DSA-Practices/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/banerjee003/My-DSA-Practices/tree/master/1710-maximum-units-on-a-truck) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -107,6 +108,7 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/banerjee003/My-DSA-Practices/tree/master/1260-shift-2d-grid) |
+| [1441-build-an-array-with-stack-operations](https://github.com/banerjee003/My-DSA-Practices/tree/master/1441-build-an-array-with-stack-operations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/banerjee003/My-DSA-Practices/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/banerjee003/My-DSA-Practices/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -232,6 +234,7 @@ gcc filename.c -o output
 | [0496-next-greater-element-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/banerjee003/My-DSA-Practices/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/banerjee003/My-DSA-Practices/tree/master/1441-build-an-array-with-stack-operations) |
 ## Greedy
 |  |
 | ------- |

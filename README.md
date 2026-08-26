@@ -37,6 +37,7 @@ gcc filename.c -o output
 | [0130-surrounded-regions](https://github.com/banerjee003/My-DSA-Practices/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/banerjee003/My-DSA-Practices/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/banerjee003/My-DSA-Practices/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/banerjee003/My-DSA-Practices/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/banerjee003/My-DSA-Practices/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/banerjee003/My-DSA-Practices/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/0496-next-greater-element-i) |
@@ -95,6 +96,7 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/banerjee003/My-DSA-Practices/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0287-find-the-duplicate-number](https://github.com/banerjee003/My-DSA-Practices/tree/master/0287-find-the-duplicate-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/banerjee003/My-DSA-Practices/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/banerjee003/My-DSA-Practices/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -155,6 +157,7 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0078-subsets](https://github.com/banerjee003/My-DSA-Practices/tree/master/0078-subsets) |
+| [0287-find-the-duplicate-number](https://github.com/banerjee003/My-DSA-Practices/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/banerjee003/My-DSA-Practices/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/banerjee003/My-DSA-Practices/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/banerjee003/My-DSA-Practices/tree/master/1386-cinema-seat-allocation) |
@@ -178,6 +181,7 @@ gcc filename.c -o output
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/banerjee003/My-DSA-Practices/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/banerjee003/My-DSA-Practices/tree/master/0704-binary-search) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/banerjee003/My-DSA-Practices/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/banerjee003/My-DSA-Practices/tree/master/3312-sorted-gcd-pair-queries) |
@@ -425,4 +429,12 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [2101-detonate-the-maximum-bombs](https://github.com/banerjee003/My-DSA-Practices/tree/master/2101-detonate-the-maximum-bombs) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/banerjee003/My-DSA-Practices/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/banerjee003/My-DSA-Practices/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

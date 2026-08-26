@@ -9,7 +9,7 @@ public:
         vector<int>ans;
         int i = 0;
         
-        while(i < nums.size()){
+        while(i < n){
             int idx = i;
             m[temp[i]] = idx;
             while((i < n-1) && (temp[i+1] == temp[i])){

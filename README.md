@@ -50,6 +50,7 @@ gcc filename.c -o output
 | [0704-binary-search](https://github.com/banerjee003/My-DSA-Practices/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/banerjee003/My-DSA-Practices/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/banerjee003/My-DSA-Practices/tree/master/1020-number-of-enclaves) |
 | [1200-minimum-absolute-difference](https://github.com/banerjee003/My-DSA-Practices/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/banerjee003/My-DSA-Practices/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/1331-rank-transform-of-an-array) |
@@ -265,6 +266,7 @@ gcc filename.c -o output
 | [0200-number-of-islands](https://github.com/banerjee003/My-DSA-Practices/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/banerjee003/My-DSA-Practices/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/banerjee003/My-DSA-Practices/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/banerjee003/My-DSA-Practices/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/banerjee003/My-DSA-Practices/tree/master/1260-shift-2d-grid) |
 ## Dynamic Programming
 |  |
@@ -314,6 +316,7 @@ gcc filename.c -o output
 | [0547-number-of-provinces](https://github.com/banerjee003/My-DSA-Practices/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0572-subtree-of-another-tree) |
 | [0965-univalued-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0965-univalued-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/banerjee003/My-DSA-Practices/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/banerjee003/My-DSA-Practices/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2101-detonate-the-maximum-bombs](https://github.com/banerjee003/My-DSA-Practices/tree/master/2101-detonate-the-maximum-bombs) |
@@ -356,6 +359,7 @@ gcc filename.c -o output
 | [0547-number-of-provinces](https://github.com/banerjee003/My-DSA-Practices/tree/master/0547-number-of-provinces) |
 | [0965-univalued-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/banerjee003/My-DSA-Practices/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/banerjee003/My-DSA-Practices/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2101-detonate-the-maximum-bombs](https://github.com/banerjee003/My-DSA-Practices/tree/master/2101-detonate-the-maximum-bombs) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -437,6 +441,7 @@ gcc filename.c -o output
 | [0130-surrounded-regions](https://github.com/banerjee003/My-DSA-Practices/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/banerjee003/My-DSA-Practices/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/banerjee003/My-DSA-Practices/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/banerjee003/My-DSA-Practices/tree/master/1020-number-of-enclaves) |
 ## Geometry
 |  |
 | ------- |

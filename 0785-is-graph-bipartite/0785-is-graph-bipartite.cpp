@@ -1,23 +1,16 @@
 class Solution {
 public:
-    bool check(int start, int v, vector<int>&color, vector<vector<int>>& graph){
-        queue<int>q;
+    bool check(int start, int v, vector<int>&color, int col, vector<vector<int>>& graph){
+        color[start] = !col;
 
-        q.push(start);
-        color[start] = 0;
-
-        while(!q.empty()){
-            int curr = q.front();
-            q.pop();
-
-            for(int i : graph[curr]){
-                if(color[i] == -1){
-                    color[i] = !color[curr];
-                        q.push(i);
-                }
-                else if(color[i] == color[curr]){
+        for(int i : graph[start]){
+            if(color[i] == -1){
+                if(!check(i, v, color, !col, graph)){
                     return false;
                 }
+            }
+            else if(color[i] == !col){
+                return false;
             }
         }
         return true;
@@ -29,7 +22,7 @@ public:
 
         for(int i = 0; i < v; i++){
             if(color[i] == -1){
-                if(!check(i, v, color, graph))
+                if(!check(i, v, color, 0, graph))
                     return false;
                 
             }

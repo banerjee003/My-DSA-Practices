@@ -316,6 +316,7 @@ gcc filename.c -o output
 | [0547-number-of-provinces](https://github.com/banerjee003/My-DSA-Practices/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0572-subtree-of-another-tree) |
 | [0785-is-graph-bipartite](https://github.com/banerjee003/My-DSA-Practices/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/banerjee003/My-DSA-Practices/tree/master/0802-find-eventual-safe-states) |
 | [0965-univalued-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0965-univalued-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/banerjee003/My-DSA-Practices/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -360,6 +361,7 @@ gcc filename.c -o output
 | [0542-01-matrix](https://github.com/banerjee003/My-DSA-Practices/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/banerjee003/My-DSA-Practices/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/banerjee003/My-DSA-Practices/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/banerjee003/My-DSA-Practices/tree/master/0802-find-eventual-safe-states) |
 | [0965-univalued-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/banerjee003/My-DSA-Practices/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/banerjee003/My-DSA-Practices/tree/master/1020-number-of-enclaves) |
@@ -392,6 +394,7 @@ gcc filename.c -o output
 | ------- |
 | [0547-number-of-provinces](https://github.com/banerjee003/My-DSA-Practices/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/banerjee003/My-DSA-Practices/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/banerjee003/My-DSA-Practices/tree/master/0802-find-eventual-safe-states) |
 | [2101-detonate-the-maximum-bombs](https://github.com/banerjee003/My-DSA-Practices/tree/master/2101-detonate-the-maximum-bombs) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/banerjee003/My-DSA-Practices/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [3310-remove-methods-from-project](https://github.com/banerjee003/My-DSA-Practices/tree/master/3310-remove-methods-from-project) |
@@ -470,4 +473,16 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/banerjee003/My-DSA-Practices/tree/master/0785-is-graph-bipartite) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/banerjee003/My-DSA-Practices/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/banerjee003/My-DSA-Practices/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/banerjee003/My-DSA-Practices/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->

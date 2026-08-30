@@ -62,6 +62,7 @@ gcc filename.c -o output
 | [1979-find-greatest-common-divisor-of-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/banerjee003/My-DSA-Practices/tree/master/2029-stone-game-ix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/banerjee003/My-DSA-Practices/tree/master/2073-time-needed-to-buy-tickets) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/banerjee003/My-DSA-Practices/tree/master/2101-detonate-the-maximum-bombs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/banerjee003/My-DSA-Practices/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/banerjee003/My-DSA-Practices/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -250,6 +251,7 @@ gcc filename.c -o output
 | [1710-maximum-units-on-a-truck](https://github.com/banerjee003/My-DSA-Practices/tree/master/1710-maximum-units-on-a-truck) |
 | [1927-sum-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/banerjee003/My-DSA-Practices/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/banerjee003/My-DSA-Practices/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/banerjee003/My-DSA-Practices/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |

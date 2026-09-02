@@ -31,6 +31,7 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/banerjee003/My-DSA-Practices/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/banerjee003/My-DSA-Practices/tree/master/0078-subsets) |
@@ -106,6 +107,7 @@ gcc filename.c -o output
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/banerjee003/My-DSA-Practices/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0287-find-the-duplicate-number](https://github.com/banerjee003/My-DSA-Practices/tree/master/0287-find-the-duplicate-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/banerjee003/My-DSA-Practices/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -128,6 +130,7 @@ gcc filename.c -o output
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/0015-3sum) |
 | [0347-top-k-frequent-elements](https://github.com/banerjee003/My-DSA-Practices/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/banerjee003/My-DSA-Practices/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/banerjee003/My-DSA-Practices/tree/master/0628-maximum-product-of-three-numbers) |

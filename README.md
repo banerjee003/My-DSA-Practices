@@ -83,6 +83,7 @@ gcc filename.c -o output
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/banerjee003/My-DSA-Practices/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/banerjee003/My-DSA-Practices/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,6 +130,7 @@ gcc filename.c -o output
 | [0238-product-of-array-except-self](https://github.com/banerjee003/My-DSA-Practices/tree/master/0238-product-of-array-except-self) |
 | [2615-sum-of-distances](https://github.com/banerjee003/My-DSA-Practices/tree/master/2615-sum-of-distances) |
 | [3312-sorted-gcd-pair-queries](https://github.com/banerjee003/My-DSA-Practices/tree/master/3312-sorted-gcd-pair-queries) |
+| [3903-smallest-stable-index-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
 |  |
 | ------- |

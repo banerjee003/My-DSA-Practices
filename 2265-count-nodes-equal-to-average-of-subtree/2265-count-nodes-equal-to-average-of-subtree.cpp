@@ -31,7 +31,6 @@ class Solution {
 public:
     int averageOfSubtree(TreeNode* root) {
         dfs(root);
-        cout << count;
         return count;
     }
 };

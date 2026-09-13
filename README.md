@@ -50,6 +50,7 @@ gcc filename.c -o output
 | [0645-set-mismatch](https://github.com/banerjee003/My-DSA-Practices/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/banerjee003/My-DSA-Practices/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/banerjee003/My-DSA-Practices/tree/master/0704-binary-search) |
+| [0835-image-overlap](https://github.com/banerjee003/My-DSA-Practices/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/banerjee003/My-DSA-Practices/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/banerjee003/My-DSA-Practices/tree/master/1020-number-of-enclaves) |
@@ -288,6 +289,7 @@ gcc filename.c -o output
 | [0130-surrounded-regions](https://github.com/banerjee003/My-DSA-Practices/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/banerjee003/My-DSA-Practices/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/banerjee003/My-DSA-Practices/tree/master/0542-01-matrix) |
+| [0835-image-overlap](https://github.com/banerjee003/My-DSA-Practices/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/banerjee003/My-DSA-Practices/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/banerjee003/My-DSA-Practices/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/banerjee003/My-DSA-Practices/tree/master/1260-shift-2d-grid) |

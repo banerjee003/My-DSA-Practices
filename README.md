@@ -53,6 +53,7 @@ gcc filename.c -o output
 | [0704-binary-search](https://github.com/banerjee003/My-DSA-Practices/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/banerjee003/My-DSA-Practices/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/0877-stone-game) |
+| [0983-minimum-cost-for-tickets](https://github.com/banerjee003/My-DSA-Practices/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/banerjee003/My-DSA-Practices/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/banerjee003/My-DSA-Practices/tree/master/1020-number-of-enclaves) |
 | [1200-minimum-absolute-difference](https://github.com/banerjee003/My-DSA-Practices/tree/master/1200-minimum-absolute-difference) |
@@ -305,6 +306,7 @@ gcc filename.c -o output
 | [0542-01-matrix](https://github.com/banerjee003/My-DSA-Practices/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/banerjee003/My-DSA-Practices/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/0877-stone-game) |
+| [0983-minimum-cost-for-tickets](https://github.com/banerjee003/My-DSA-Practices/tree/master/0983-minimum-cost-for-tickets) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/banerjee003/My-DSA-Practices/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Heap (Priority Queue)
 |  |

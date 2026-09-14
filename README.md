@@ -165,6 +165,7 @@ gcc filename.c -o output
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/banerjee003/My-DSA-Practices/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0628-maximum-product-of-three-numbers](https://github.com/banerjee003/My-DSA-Practices/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/banerjee003/My-DSA-Practices/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/banerjee003/My-DSA-Practices/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1927-sum-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/1927-sum-game) |
@@ -489,6 +490,7 @@ gcc filename.c -o output
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/banerjee003/My-DSA-Practices/tree/master/0836-rectangle-overlap) |
 | [2101-detonate-the-maximum-bombs](https://github.com/banerjee003/My-DSA-Practices/tree/master/2101-detonate-the-maximum-bombs) |
 ## Pigeonhole Principle
 |  |

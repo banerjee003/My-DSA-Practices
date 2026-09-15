@@ -45,6 +45,7 @@ gcc filename.c -o output
 | [0435-non-overlapping-intervals](https://github.com/banerjee003/My-DSA-Practices/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/0496-next-greater-element-i) |
+| [0518-coin-change-ii](https://github.com/banerjee003/My-DSA-Practices/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/banerjee003/My-DSA-Practices/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/banerjee003/My-DSA-Practices/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/banerjee003/My-DSA-Practices/tree/master/0636-exclusive-time-of-functions) |
@@ -303,6 +304,7 @@ gcc filename.c -o output
 | [0055-jump-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/0055-jump-game) |
 | [0322-coin-change](https://github.com/banerjee003/My-DSA-Practices/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/banerjee003/My-DSA-Practices/tree/master/0435-non-overlapping-intervals) |
+| [0518-coin-change-ii](https://github.com/banerjee003/My-DSA-Practices/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/banerjee003/My-DSA-Practices/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/banerjee003/My-DSA-Practices/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/0877-stone-game) |
@@ -529,8 +531,10 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/banerjee003/My-DSA-Practices/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/banerjee003/My-DSA-Practices/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/banerjee003/My-DSA-Practices/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/banerjee003/My-DSA-Practices/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->

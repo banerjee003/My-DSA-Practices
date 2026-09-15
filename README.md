@@ -239,6 +239,7 @@ gcc filename.c -o output
 | ------- |
 | [0020-valid-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/0387-first-unique-character-in-a-string) |
+| [0520-detect-capital](https://github.com/banerjee003/My-DSA-Practices/tree/master/0520-detect-capital) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/banerjee003/My-DSA-Practices/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1927-sum-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/1927-sum-game) |

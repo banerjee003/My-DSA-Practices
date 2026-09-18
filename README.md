@@ -248,6 +248,7 @@ gcc filename.c -o output
 | [0387-first-unique-character-in-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/banerjee003/My-DSA-Practices/tree/master/0520-detect-capital) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/banerjee003/My-DSA-Practices/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/banerjee003/My-DSA-Practices/tree/master/1143-longest-common-subsequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1927-sum-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/banerjee003/My-DSA-Practices/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -319,6 +320,7 @@ gcc filename.c -o output
 | [0646-maximum-length-of-pair-chain](https://github.com/banerjee003/My-DSA-Practices/tree/master/0646-maximum-length-of-pair-chain) |
 | [0877-stone-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/0877-stone-game) |
 | [0983-minimum-cost-for-tickets](https://github.com/banerjee003/My-DSA-Practices/tree/master/0983-minimum-cost-for-tickets) |
+| [1143-longest-common-subsequence](https://github.com/banerjee003/My-DSA-Practices/tree/master/1143-longest-common-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/banerjee003/My-DSA-Practices/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/banerjee003/My-DSA-Practices/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -551,4 +553,8 @@ gcc filename.c -o output
 | ------- |
 | [0322-coin-change](https://github.com/banerjee003/My-DSA-Practices/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/banerjee003/My-DSA-Practices/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/banerjee003/My-DSA-Practices/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->

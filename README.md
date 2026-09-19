@@ -175,6 +175,7 @@ gcc filename.c -o output
 | [0836-rectangle-overlap](https://github.com/banerjee003/My-DSA-Practices/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/banerjee003/My-DSA-Practices/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/banerjee003/My-DSA-Practices/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/banerjee003/My-DSA-Practices/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -514,6 +515,7 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/banerjee003/My-DSA-Practices/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/banerjee003/My-DSA-Practices/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2101-detonate-the-maximum-bombs](https://github.com/banerjee003/My-DSA-Practices/tree/master/2101-detonate-the-maximum-bombs) |
 ## Pigeonhole Principle
 |  |

@@ -561,4 +561,8 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/banerjee003/My-DSA-Practices/tree/master/1143-longest-common-subsequence) |
+## Database
+|  |
+| ------- |
+| [1045-customers-who-bought-all-products](https://github.com/banerjee003/My-DSA-Practices/tree/master/1045-customers-who-bought-all-products) |
 <!---LeetCode Topics End-->

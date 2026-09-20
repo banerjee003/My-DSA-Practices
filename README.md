@@ -134,6 +134,7 @@ gcc filename.c -o output
 | [2073-time-needed-to-buy-tickets](https://github.com/banerjee003/My-DSA-Practices/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/banerjee003/My-DSA-Practices/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/banerjee003/My-DSA-Practices/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
@@ -258,6 +259,7 @@ gcc filename.c -o output
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/banerjee003/My-DSA-Practices/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/banerjee003/My-DSA-Practices/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/banerjee003/My-DSA-Practices/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Queue
 |  |

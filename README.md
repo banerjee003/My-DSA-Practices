@@ -251,6 +251,7 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/banerjee003/My-DSA-Practices/tree/master/0072-edit-distance) |
 | [0387-first-unique-character-in-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/banerjee003/My-DSA-Practices/tree/master/0520-detect-capital) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/banerjee003/My-DSA-Practices/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -320,6 +321,7 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/0055-jump-game) |
+| [0072-edit-distance](https://github.com/banerjee003/My-DSA-Practices/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/banerjee003/My-DSA-Practices/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/banerjee003/My-DSA-Practices/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/banerjee003/My-DSA-Practices/tree/master/0435-non-overlapping-intervals) |

@@ -574,6 +574,7 @@ gcc filename.c -o output
 | ------- |
 | [0608-tree-node](https://github.com/banerjee003/My-DSA-Practices/tree/master/0608-tree-node) |
 | [1045-customers-who-bought-all-products](https://github.com/banerjee003/My-DSA-Practices/tree/master/1045-customers-who-bought-all-products) |
+| [1341-movie-rating](https://github.com/banerjee003/My-DSA-Practices/tree/master/1341-movie-rating) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |

@@ -251,6 +251,7 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/banerjee003/My-DSA-Practices/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/banerjee003/My-DSA-Practices/tree/master/0072-edit-distance) |
 | [0387-first-unique-character-in-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/banerjee003/My-DSA-Practices/tree/master/0520-detect-capital) |
@@ -287,6 +288,7 @@ gcc filename.c -o output
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/banerjee003/My-DSA-Practices/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/banerjee003/My-DSA-Practices/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/banerjee003/My-DSA-Practices/tree/master/0646-maximum-length-of-pair-chain) |
@@ -320,6 +322,7 @@ gcc filename.c -o output
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/banerjee003/My-DSA-Practices/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/banerjee003/My-DSA-Practices/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/banerjee003/My-DSA-Practices/tree/master/0300-longest-increasing-subsequence) |
@@ -475,6 +478,7 @@ gcc filename.c -o output
 ## Recursion
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/banerjee003/My-DSA-Practices/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/banerjee003/My-DSA-Practices/tree/master/0206-reverse-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/banerjee003/My-DSA-Practices/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bracket Sequences

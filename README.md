@@ -176,6 +176,7 @@ gcc filename.c -o output
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/banerjee003/My-DSA-Practices/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/banerjee003/My-DSA-Practices/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0628-maximum-product-of-three-numbers](https://github.com/banerjee003/My-DSA-Practices/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/banerjee003/My-DSA-Practices/tree/master/0836-rectangle-overlap) |
@@ -329,6 +330,7 @@ gcc filename.c -o output
 | [0044-wildcard-matching](https://github.com/banerjee003/My-DSA-Practices/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/banerjee003/My-DSA-Practices/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/banerjee003/My-DSA-Practices/tree/master/0096-unique-binary-search-trees) |
 | [0300-longest-increasing-subsequence](https://github.com/banerjee003/My-DSA-Practices/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/banerjee003/My-DSA-Practices/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/banerjee003/My-DSA-Practices/tree/master/0435-non-overlapping-intervals) |
@@ -352,6 +354,7 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/banerjee003/My-DSA-Practices/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/banerjee003/My-DSA-Practices/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/banerjee003/My-DSA-Practices/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/banerjee003/My-DSA-Practices/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -397,6 +400,7 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/banerjee003/My-DSA-Practices/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/banerjee003/My-DSA-Practices/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/banerjee003/My-DSA-Practices/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/banerjee003/My-DSA-Practices/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -478,6 +482,7 @@ gcc filename.c -o output
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/banerjee003/My-DSA-Practices/tree/master/0096-unique-binary-search-trees) |
 | [0450-delete-node-in-a-bst](https://github.com/banerjee003/My-DSA-Practices/tree/master/0450-delete-node-in-a-bst) |
 ## Recursion
 |  |

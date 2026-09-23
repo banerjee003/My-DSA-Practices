@@ -1,13 +1,14 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums, int x) {
+        int n = nums.size();
         int total = accumulate(nums.begin(), nums.end(), 0);
         int target = total - x;
         int maxLen = -1;
         int left = 0;
         int sum = 0;
 
-        for(int right = 0; right < nums.size(); right++){
+        for(int right = 0; right < n; right++){
             sum += nums[right];
 
             while(sum > target && left <= right){
@@ -22,6 +23,6 @@ public:
 
         if(maxLen == -1) return -1;
 
-        return nums.size() - maxLen;
+        return n - maxLen;
     }
 };

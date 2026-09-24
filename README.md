@@ -33,6 +33,7 @@ gcc filename.c -o output
 | [0001-two-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/banerjee003/My-DSA-Practices/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/banerjee003/My-DSA-Practices/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/banerjee003/My-DSA-Practices/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/banerjee003/My-DSA-Practices/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/0055-jump-game) |
@@ -139,6 +140,7 @@ gcc filename.c -o output
 | [0011-container-with-most-water](https://github.com/banerjee003/My-DSA-Practices/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/banerjee003/My-DSA-Practices/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/banerjee003/My-DSA-Practices/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/banerjee003/My-DSA-Practices/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/banerjee003/My-DSA-Practices/tree/master/0287-find-the-duplicate-number) |

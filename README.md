@@ -31,6 +31,7 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/banerjee003/My-DSA-Practices/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/banerjee003/My-DSA-Practices/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/banerjee003/My-DSA-Practices/tree/master/0053-maximum-subarray) |
@@ -135,6 +136,7 @@ gcc filename.c -o output
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/banerjee003/My-DSA-Practices/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/banerjee003/My-DSA-Practices/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/banerjee003/My-DSA-Practices/tree/master/0075-sort-colors) |
@@ -316,6 +318,7 @@ gcc filename.c -o output
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/banerjee003/My-DSA-Practices/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/banerjee003/My-DSA-Practices/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/banerjee003/My-DSA-Practices/tree/master/0435-non-overlapping-intervals) |

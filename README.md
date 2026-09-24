@@ -193,6 +193,7 @@ gcc filename.c -o output
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/banerjee003/My-DSA-Practices/tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/banerjee003/My-DSA-Practices/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/banerjee003/My-DSA-Practices/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0628-maximum-product-of-three-numbers](https://github.com/banerjee003/My-DSA-Practices/tree/master/0628-maximum-product-of-three-numbers) |
@@ -514,6 +515,7 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/banerjee003/My-DSA-Practices/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/banerjee003/My-DSA-Practices/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/banerjee003/My-DSA-Practices/tree/master/0206-reverse-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/banerjee003/My-DSA-Practices/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bracket Sequences

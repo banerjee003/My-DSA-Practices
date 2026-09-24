@@ -7,9 +7,7 @@ public:
 
         for(int i = 1; i < n; i++){
             maxProfit = max(maxProfit, (prices[i] - minBuy));
-            if(prices[i] < minBuy){
-                minBuy = prices[i];
-            }
+            minBuy = min(minBuy, prices[i]);
         }
         return maxProfit;
     }

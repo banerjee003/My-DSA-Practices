@@ -33,6 +33,7 @@ gcc filename.c -o output
 | [0001-two-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/banerjee003/My-DSA-Practices/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/banerjee003/My-DSA-Practices/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/banerjee003/My-DSA-Practices/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/banerjee003/My-DSA-Practices/tree/master/0078-subsets) |
@@ -351,6 +352,7 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/banerjee003/My-DSA-Practices/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/banerjee003/My-DSA-Practices/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/banerjee003/My-DSA-Practices/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/banerjee003/My-DSA-Practices/tree/master/0096-unique-binary-search-trees) |
@@ -541,6 +543,7 @@ gcc filename.c -o output
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/banerjee003/My-DSA-Practices/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/banerjee003/My-DSA-Practices/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/banerjee003/My-DSA-Practices/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort

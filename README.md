@@ -38,6 +38,7 @@ gcc filename.c -o output
 | [0041-first-missing-positive](https://github.com/banerjee003/My-DSA-Practices/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/banerjee003/My-DSA-Practices/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/banerjee003/My-DSA-Practices/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/banerjee003/My-DSA-Practices/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/banerjee003/My-DSA-Practices/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/0088-merge-sorted-array) |
@@ -174,6 +175,7 @@ gcc filename.c -o output
 | ------- |
 | [0015-3sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/banerjee003/My-DSA-Practices/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/banerjee003/My-DSA-Practices/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/banerjee003/My-DSA-Practices/tree/master/0169-majority-element) |
@@ -638,6 +640,7 @@ gcc filename.c -o output
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/banerjee003/My-DSA-Practices/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/banerjee003/My-DSA-Practices/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |

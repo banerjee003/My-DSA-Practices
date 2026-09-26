@@ -78,6 +78,7 @@ gcc filename.c -o output
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/banerjee003/My-DSA-Practices/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1710-maximum-units-on-a-truck](https://github.com/banerjee003/My-DSA-Practices/tree/master/1710-maximum-units-on-a-truck) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/banerjee003/My-DSA-Practices/tree/master/2029-stone-game-ix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/banerjee003/My-DSA-Practices/tree/master/2073-time-needed-to-buy-tickets) |
@@ -125,6 +126,7 @@ gcc filename.c -o output
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/banerjee003/My-DSA-Practices/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/banerjee003/My-DSA-Practices/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2615-sum-of-distances](https://github.com/banerjee003/My-DSA-Practices/tree/master/2615-sum-of-distances) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/banerjee003/My-DSA-Practices/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/banerjee003/My-DSA-Practices/tree/master/2965-find-missing-and-repeated-values) |
@@ -297,6 +299,7 @@ gcc filename.c -o output
 | [1143-longest-common-subsequence](https://github.com/banerjee003/My-DSA-Practices/tree/master/1143-longest-common-subsequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/banerjee003/My-DSA-Practices/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/1927-sum-game) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/banerjee003/My-DSA-Practices/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |

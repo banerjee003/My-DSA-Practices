@@ -39,6 +39,7 @@ gcc filename.c -o output
 | [0053-maximum-subarray](https://github.com/banerjee003/My-DSA-Practices/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/banerjee003/My-DSA-Practices/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/banerjee003/My-DSA-Practices/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/banerjee003/My-DSA-Practices/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/banerjee003/My-DSA-Practices/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/0088-merge-sorted-array) |
@@ -263,6 +264,7 @@ gcc filename.c -o output
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/banerjee003/My-DSA-Practices/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/banerjee003/My-DSA-Practices/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/banerjee003/My-DSA-Practices/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/banerjee003/My-DSA-Practices/tree/master/0704-binary-search) |
@@ -357,6 +359,7 @@ gcc filename.c -o output
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/banerjee003/My-DSA-Practices/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/banerjee003/My-DSA-Practices/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/banerjee003/My-DSA-Practices/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/banerjee003/My-DSA-Practices/tree/master/0542-01-matrix) |

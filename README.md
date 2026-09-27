@@ -42,6 +42,7 @@ gcc filename.c -o output
 | [0074-search-a-2d-matrix](https://github.com/banerjee003/My-DSA-Practices/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/banerjee003/My-DSA-Practices/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/banerjee003/My-DSA-Practices/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/banerjee003/My-DSA-Practices/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/banerjee003/My-DSA-Practices/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/banerjee003/My-DSA-Practices/tree/master/0130-surrounded-regions) |
@@ -251,6 +252,7 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0078-subsets](https://github.com/banerjee003/My-DSA-Practices/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/banerjee003/My-DSA-Practices/tree/master/0079-word-search) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/banerjee003/My-DSA-Practices/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -295,6 +297,7 @@ gcc filename.c -o output
 | [0020-valid-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/banerjee003/My-DSA-Practices/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/banerjee003/My-DSA-Practices/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/banerjee003/My-DSA-Practices/tree/master/0079-word-search) |
 | [0387-first-unique-character-in-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/banerjee003/My-DSA-Practices/tree/master/0520-detect-capital) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/banerjee003/My-DSA-Practices/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -360,6 +363,7 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/banerjee003/My-DSA-Practices/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/banerjee003/My-DSA-Practices/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/banerjee003/My-DSA-Practices/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/banerjee003/My-DSA-Practices/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/banerjee003/My-DSA-Practices/tree/master/0542-01-matrix) |
@@ -421,6 +425,7 @@ gcc filename.c -o output
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/banerjee003/My-DSA-Practices/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/banerjee003/My-DSA-Practices/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/banerjee003/My-DSA-Practices/tree/master/0130-surrounded-regions) |

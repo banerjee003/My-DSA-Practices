@@ -1,20 +1,20 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
-        unordered_map<int, int> m;
-        
-        m[0] = 1;          // Prefix sum 0 has occurred once
-        int sum = 0;
+        int n = nums.size();
+        unordered_map<int, int>m;
+        int prefix = 0;
+
         int count = 0;
+        m[0] = 1;
+        for(int i = 0; i < n; i++){
+            prefix += nums[i];
 
-        for (int i = 0; i < nums.size(); i++) {
-            sum += nums[i];
-
-            if (m.find(sum - k) != m.end()) {
-                count += m[sum - k];
+            int target = prefix - k;
+            if(m.find(target) != m.end()){
+                count += m[target];
             }
-
-            m[sum]++;
+            m[prefix]++;
         }
 
         return count;

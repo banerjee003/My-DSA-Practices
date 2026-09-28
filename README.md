@@ -62,6 +62,7 @@ gcc filename.c -o output
 | [0496-next-greater-element-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/banerjee003/My-DSA-Practices/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/banerjee003/My-DSA-Practices/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/banerjee003/My-DSA-Practices/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/banerjee003/My-DSA-Practices/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/banerjee003/My-DSA-Practices/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/banerjee003/My-DSA-Practices/tree/master/0645-set-mismatch) |
@@ -123,6 +124,7 @@ gcc filename.c -o output
 | [0387-first-unique-character-in-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/banerjee003/My-DSA-Practices/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/banerjee003/My-DSA-Practices/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/banerjee003/My-DSA-Practices/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -173,6 +175,7 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/banerjee003/My-DSA-Practices/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/banerjee003/My-DSA-Practices/tree/master/0560-subarray-sum-equals-k) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/banerjee003/My-DSA-Practices/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/banerjee003/My-DSA-Practices/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2615-sum-of-distances](https://github.com/banerjee003/My-DSA-Practices/tree/master/2615-sum-of-distances) |

@@ -37,6 +37,7 @@ gcc filename.c -o output
 | [0031-next-permutation](https://github.com/banerjee003/My-DSA-Practices/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/banerjee003/My-DSA-Practices/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/banerjee003/My-DSA-Practices/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/banerjee003/My-DSA-Practices/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/banerjee003/My-DSA-Practices/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/banerjee003/My-DSA-Practices/tree/master/0074-search-a-2d-matrix) |
@@ -160,6 +161,7 @@ gcc filename.c -o output
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/banerjee003/My-DSA-Practices/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/banerjee003/My-DSA-Practices/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/banerjee003/My-DSA-Practices/tree/master/1441-build-an-array-with-stack-operations) |
 | [2073-time-needed-to-buy-tickets](https://github.com/banerjee003/My-DSA-Practices/tree/master/2073-time-needed-to-buy-tickets) |
@@ -368,6 +370,7 @@ gcc filename.c -o output
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/banerjee003/My-DSA-Practices/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/banerjee003/My-DSA-Practices/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/banerjee003/My-DSA-Practices/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/banerjee003/My-DSA-Practices/tree/master/0130-surrounded-regions) |

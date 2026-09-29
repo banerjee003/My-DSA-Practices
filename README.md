@@ -36,6 +36,7 @@ gcc filename.c -o output
 | [0018-4sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/banerjee003/My-DSA-Practices/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/banerjee003/My-DSA-Practices/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/banerjee003/My-DSA-Practices/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/banerjee003/My-DSA-Practices/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/banerjee003/My-DSA-Practices/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/0055-jump-game) |
@@ -155,6 +156,7 @@ gcc filename.c -o output
 | [0018-4sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/banerjee003/My-DSA-Practices/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/banerjee003/My-DSA-Practices/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/banerjee003/My-DSA-Practices/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/banerjee003/My-DSA-Practices/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/0151-reverse-words-in-a-string) |
@@ -339,6 +341,7 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/banerjee003/My-DSA-Practices/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/banerjee003/My-DSA-Practices/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/banerjee003/My-DSA-Practices/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/banerjee003/My-DSA-Practices/tree/master/0145-binary-tree-postorder-traversal) |
@@ -374,6 +377,7 @@ gcc filename.c -o output
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/banerjee003/My-DSA-Practices/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/banerjee003/My-DSA-Practices/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
@@ -395,6 +399,7 @@ gcc filename.c -o output
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/banerjee003/My-DSA-Practices/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/banerjee003/My-DSA-Practices/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/banerjee003/My-DSA-Practices/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/0055-jump-game) |

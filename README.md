@@ -127,6 +127,7 @@ gcc filename.c -o output
 | [0496-next-greater-element-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/banerjee003/My-DSA-Practices/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/banerjee003/My-DSA-Practices/tree/master/0645-set-mismatch) |
+| [1096-brace-expansion-ii](https://github.com/banerjee003/My-DSA-Practices/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/banerjee003/My-DSA-Practices/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/banerjee003/My-DSA-Practices/tree/master/1386-cinema-seat-allocation) |
@@ -197,6 +198,7 @@ gcc filename.c -o output
 | [0628-maximum-product-of-three-numbers](https://github.com/banerjee003/My-DSA-Practices/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/banerjee003/My-DSA-Practices/tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/banerjee003/My-DSA-Practices/tree/master/0646-maximum-length-of-pair-chain) |
+| [1096-brace-expansion-ii](https://github.com/banerjee003/My-DSA-Practices/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/banerjee003/My-DSA-Practices/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/banerjee003/My-DSA-Practices/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -261,6 +263,7 @@ gcc filename.c -o output
 | ------- |
 | [0078-subsets](https://github.com/banerjee003/My-DSA-Practices/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/banerjee003/My-DSA-Practices/tree/master/0079-word-search) |
+| [1096-brace-expansion-ii](https://github.com/banerjee003/My-DSA-Practices/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/banerjee003/My-DSA-Practices/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -310,6 +313,7 @@ gcc filename.c -o output
 | [0387-first-unique-character-in-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/banerjee003/My-DSA-Practices/tree/master/0520-detect-capital) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/banerjee003/My-DSA-Practices/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/banerjee003/My-DSA-Practices/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/banerjee003/My-DSA-Practices/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -342,6 +346,7 @@ gcc filename.c -o output
 | [0496-next-greater-element-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/0496-next-greater-element-i) |
 | [0636-exclusive-time-of-functions](https://github.com/banerjee003/My-DSA-Practices/tree/master/0636-exclusive-time-of-functions) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/banerjee003/My-DSA-Practices/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/banerjee003/My-DSA-Practices/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/banerjee003/My-DSA-Practices/tree/master/1441-build-an-array-with-stack-operations) |
@@ -508,6 +513,7 @@ gcc filename.c -o output
 | [0965-univalued-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/0965-univalued-binary-tree) |
 | [0994-rotting-oranges](https://github.com/banerjee003/My-DSA-Practices/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/banerjee003/My-DSA-Practices/tree/master/1020-number-of-enclaves) |
+| [1096-brace-expansion-ii](https://github.com/banerjee003/My-DSA-Practices/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2101-detonate-the-maximum-bombs](https://github.com/banerjee003/My-DSA-Practices/tree/master/2101-detonate-the-maximum-bombs) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/banerjee003/My-DSA-Practices/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |

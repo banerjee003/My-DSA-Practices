@@ -263,6 +263,7 @@ gcc filename.c -o output
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/banerjee003/My-DSA-Practices/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/banerjee003/My-DSA-Practices/tree/master/0079-word-search) |
 | [1096-brace-expansion-ii](https://github.com/banerjee003/My-DSA-Practices/tree/master/1096-brace-expansion-ii) |
@@ -308,6 +309,7 @@ gcc filename.c -o output
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/banerjee003/My-DSA-Practices/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/banerjee003/My-DSA-Practices/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/banerjee003/My-DSA-Practices/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/banerjee003/My-DSA-Practices/tree/master/0079-word-search) |
@@ -401,6 +403,7 @@ gcc filename.c -o output
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/banerjee003/My-DSA-Practices/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/banerjee003/My-DSA-Practices/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/banerjee003/My-DSA-Practices/tree/master/0053-maximum-subarray) |
@@ -576,6 +579,7 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/banerjee003/My-DSA-Practices/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

@@ -122,6 +122,7 @@ gcc filename.c -o output
 | [0003-longest-substring-without-repeating-characters](https://github.com/banerjee003/My-DSA-Practices/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/banerjee003/My-DSA-Practices/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/banerjee003/My-DSA-Practices/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/banerjee003/My-DSA-Practices/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/banerjee003/My-DSA-Practices/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -196,6 +197,7 @@ gcc filename.c -o output
 | [0075-sort-colors](https://github.com/banerjee003/My-DSA-Practices/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/banerjee003/My-DSA-Practices/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/banerjee003/My-DSA-Practices/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/banerjee003/My-DSA-Practices/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/banerjee003/My-DSA-Practices/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/banerjee003/My-DSA-Practices/tree/master/0628-maximum-product-of-three-numbers) |
@@ -316,6 +318,7 @@ gcc filename.c -o output
 | [0079-word-search](https://github.com/banerjee003/My-DSA-Practices/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/banerjee003/My-DSA-Practices/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/banerjee003/My-DSA-Practices/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/banerjee003/My-DSA-Practices/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/0678-valid-parenthesis-string) |

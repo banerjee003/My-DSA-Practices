@@ -19,6 +19,8 @@ All problem folders are organized under exactly three top-level directories:
 - `Difficulty: Medium`
 - `Difficulty: Hard`
 
+New LeetHub pushes are automatically reorganized into these folders by difficulty using a GitHub Actions workflow.
+
 ---
 
 ## 🛠️ Getting Started

@@ -58,6 +58,7 @@ gcc filename.c -o output
 | [0300-longest-increasing-subsequence](https://github.com/banerjee003/My-DSA-Practices/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/banerjee003/My-DSA-Practices/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/banerjee003/My-DSA-Practices/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/banerjee003/My-DSA-Practices/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/0496-next-greater-element-i) |
@@ -186,6 +187,7 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/banerjee003/My-DSA-Practices/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/banerjee003/My-DSA-Practices/tree/master/0560-subarray-sum-equals-k) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/banerjee003/My-DSA-Practices/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/banerjee003/My-DSA-Practices/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -291,6 +293,7 @@ gcc filename.c -o output
 | [0074-search-a-2d-matrix](https://github.com/banerjee003/My-DSA-Practices/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/banerjee003/My-DSA-Practices/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/banerjee003/My-DSA-Practices/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/banerjee003/My-DSA-Practices/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -385,6 +388,7 @@ gcc filename.c -o output
 | [0011-container-with-most-water](https://github.com/banerjee003/My-DSA-Practices/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/banerjee003/My-DSA-Practices/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/0055-jump-game) |
+| [0410-split-array-largest-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/banerjee003/My-DSA-Practices/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/banerjee003/My-DSA-Practices/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/0678-valid-parenthesis-string) |
@@ -436,6 +440,7 @@ gcc filename.c -o output
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/banerjee003/My-DSA-Practices/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/banerjee003/My-DSA-Practices/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/banerjee003/My-DSA-Practices/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/banerjee003/My-DSA-Practices/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/banerjee003/My-DSA-Practices/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/banerjee003/My-DSA-Practices/tree/master/0542-01-matrix) |

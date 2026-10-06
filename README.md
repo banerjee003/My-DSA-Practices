@@ -70,6 +70,7 @@ gcc filename.c -o output
 | [0646-maximum-length-of-pair-chain](https://github.com/banerjee003/My-DSA-Practices/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/banerjee003/My-DSA-Practices/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/banerjee003/My-DSA-Practices/tree/master/0835-image-overlap) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/0877-stone-game) |
 | [0983-minimum-cost-for-tickets](https://github.com/banerjee003/My-DSA-Practices/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/banerjee003/My-DSA-Practices/tree/master/0994-rotting-oranges) |
@@ -291,6 +292,7 @@ gcc filename.c -o output
 | [0287-find-the-duplicate-number](https://github.com/banerjee003/My-DSA-Practices/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/banerjee003/My-DSA-Practices/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/banerjee003/My-DSA-Practices/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/banerjee003/My-DSA-Practices/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/banerjee003/My-DSA-Practices/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -750,4 +752,8 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/banerjee003/My-DSA-Practices/tree/master/0239-sliding-window-maximum) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->

@@ -110,6 +110,7 @@ gcc filename.c -o output
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/banerjee003/My-DSA-Practices/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2615-sum-of-distances](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/2615-sum-of-distances) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/banerjee003/My-DSA-Practices/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -631,6 +632,7 @@ gcc filename.c -o output
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/banerjee003/My-DSA-Practices/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/3483-unique-3-digit-even-numbers) |
 ## Binary Search Tree

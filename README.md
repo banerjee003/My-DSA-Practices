@@ -49,6 +49,7 @@ gcc filename.c -o output
 | [0033-search-in-rotated-sorted-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/banerjee003/My-DSA-Practices/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0055-jump-game) |
@@ -138,6 +139,7 @@ gcc filename.c -o output
 | [0001-two-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/banerjee003/My-DSA-Practices/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0347-top-k-frequent-elements) |
@@ -215,6 +217,7 @@ gcc filename.c -o output
 | ------- |
 | [0015-3sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0015-3sum) |
 | [0018-4sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0018-4sum) |
+| [0049-group-anagrams](https://github.com/banerjee003/My-DSA-Practices/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0088-merge-sorted-array) |
@@ -342,6 +345,7 @@ gcc filename.c -o output
 | [0020-valid-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/banerjee003/My-DSA-Practices/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0072-edit-distance) |
 | [0079-word-search](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0125-valid-palindrome) |

@@ -112,6 +112,7 @@ gcc filename.c -o output
 | [2333-minimum-sum-of-squared-difference](https://github.com/banerjee003/My-DSA-Practices/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2615-sum-of-distances](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/2615-sum-of-distances) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/banerjee003/My-DSA-Practices/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -159,6 +160,7 @@ gcc filename.c -o output
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2615-sum-of-distances](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/2615-sum-of-distances) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -797,4 +799,12 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0852-peak-index-in-a-mountain-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->

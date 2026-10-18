@@ -369,6 +369,7 @@ gcc filename.c -o output
 | [1143-longest-common-subsequence](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1249-minimum-remove-to-make-valid-parentheses) |
+| [1392-longest-happy-prefix](https://github.com/banerjee003/My-DSA-Practices/tree/master/1392-longest-happy-prefix) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -619,10 +620,12 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0572-subtree-of-another-tree) |
+| [1392-longest-happy-prefix](https://github.com/banerjee003/My-DSA-Practices/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0572-subtree-of-another-tree) |
+| [1392-longest-happy-prefix](https://github.com/banerjee003/My-DSA-Practices/tree/master/1392-longest-happy-prefix) |
 ## Game Theory
 |  |
 | ------- |
@@ -807,4 +810,16 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/banerjee003/My-DSA-Practices/tree/master/1392-longest-happy-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/banerjee003/My-DSA-Practices/tree/master/1392-longest-happy-prefix) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/banerjee003/My-DSA-Practices/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->

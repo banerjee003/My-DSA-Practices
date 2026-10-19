@@ -84,6 +84,7 @@ gcc filename.c -o output
 | [0645-set-mismatch](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/banerjee003/My-DSA-Practices/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0877-stone-game) |
@@ -210,6 +211,7 @@ gcc filename.c -o output
 | [0238-product-of-array-except-self](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/banerjee003/My-DSA-Practices/tree/master/0724-find-pivot-index) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2615-sum-of-distances](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/2615-sum-of-distances) |

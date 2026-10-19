@@ -103,6 +103,7 @@ gcc filename.c -o output
 | [1710-maximum-units-on-a-truck](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/1710-maximum-units-on-a-truck) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/1979-find-greatest-common-divisor-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/1991-find-the-middle-index-in-array) |
 | [2029-stone-game-ix](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/2029-stone-game-ix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -214,6 +215,7 @@ gcc filename.c -o output
 | [0724-find-pivot-index](https://github.com/banerjee003/My-DSA-Practices/tree/master/0724-find-pivot-index) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1991-find-the-middle-index-in-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/1991-find-the-middle-index-in-array) |
 | [2615-sum-of-distances](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/2615-sum-of-distances) |
 | [3312-sorted-gcd-pair-queries](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/3312-sorted-gcd-pair-queries) |
 | [3903-smallest-stable-index-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/3903-smallest-stable-index-i) |

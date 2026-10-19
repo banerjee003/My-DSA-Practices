@@ -104,6 +104,7 @@ gcc filename.c -o output
 | [1979-find-greatest-common-divisor-of-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/2029-stone-game-ix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/2073-time-needed-to-buy-tickets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/2091-removing-minimum-and-maximum-from-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/2101-detonate-the-maximum-bombs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/2149-rearrange-array-elements-by-sign) |
@@ -238,6 +239,7 @@ gcc filename.c -o output
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/1520-maximum-number-of-non-overlapping-substrings) |
 | [1710-maximum-units-on-a-truck](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/1710-maximum-units-on-a-truck) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/banerjee003/My-DSA-Practices/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/2583-kth-largest-sum-in-a-binary-tree) |
@@ -323,6 +325,7 @@ gcc filename.c -o output
 | [0852-peak-index-in-a-mountain-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0852-peak-index-in-a-mountain-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/banerjee003/My-DSA-Practices/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/3312-sorted-gcd-pair-queries) |

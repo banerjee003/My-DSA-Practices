@@ -58,6 +58,7 @@ gcc filename.c -o output
 | [0075-sort-colors](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0075-sort-colors) |
 | [0078-subsets](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0078-subsets) |
 | [0079-word-search](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/banerjee003/My-DSA-Practices/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0130-surrounded-regions) |
@@ -402,6 +403,7 @@ gcc filename.c -o output
 | ------- |
 | [0020-valid-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/banerjee003/My-DSA-Practices/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0145-binary-tree-postorder-traversal) |
@@ -451,6 +453,7 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/banerjee003/My-DSA-Practices/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
@@ -804,6 +807,7 @@ gcc filename.c -o output
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/banerjee003/My-DSA-Practices/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/0239-sliding-window-maximum) |
 ## Ternary Search
 |  |

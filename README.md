@@ -392,6 +392,7 @@ gcc filename.c -o output
 | [3348-smallest-divisible-digit-product-ii](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/3517-smallest-palindromic-rearrangement-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Queue
 |  |
 | ------- |

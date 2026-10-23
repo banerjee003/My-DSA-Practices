@@ -130,6 +130,7 @@ gcc filename.c -o output
 | [3524-find-x-value-of-array-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/banerjee003/My-DSA-Practices/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/banerjee003/My-DSA-Practices/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -299,6 +300,7 @@ gcc filename.c -o output
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/3513-number-of-unique-xor-triplets-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/3568-minimum-moves-to-clean-the-classroom) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/banerjee003/My-DSA-Practices/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Backtracking
 |  |

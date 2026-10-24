@@ -275,6 +275,7 @@ gcc filename.c -o output
 | [1979-find-greatest-common-divisor-of-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/2029-stone-game-ix) |
 | [2101-detonate-the-maximum-bombs](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/2101-detonate-the-maximum-bombs) |
+| [2409-count-days-spent-together](https://github.com/banerjee003/My-DSA-Practices/tree/master/2409-count-days-spent-together) |
 | [2965-find-missing-and-repeated-values](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -388,6 +389,7 @@ gcc filename.c -o output
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/banerjee003/My-DSA-Practices/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/3014-minimum-number-of-pushes-to-type-word-i) |

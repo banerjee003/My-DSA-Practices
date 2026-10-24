@@ -42,6 +42,7 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/banerjee003/My-DSA-Practices/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0015-3sum) |
 | [0018-4sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0018-4sum) |
@@ -325,6 +326,7 @@ gcc filename.c -o output
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/banerjee003/My-DSA-Practices/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0287-find-the-duplicate-number) |
@@ -717,6 +719,7 @@ gcc filename.c -o output
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/banerjee003/My-DSA-Practices/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/0215-kth-largest-element-in-an-array) |

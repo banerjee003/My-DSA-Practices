@@ -66,6 +66,7 @@ gcc filename.c -o output
 | [0136-single-number](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0169-majority-element) |
+| [0189-rotate-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0238-product-of-array-except-self) |
@@ -192,6 +193,7 @@ gcc filename.c -o output
 | [0088-merge-sorted-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0567-permutation-in-string) |
@@ -266,6 +268,7 @@ gcc filename.c -o output
 | [0050-powx-n](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0877-stone-game) |

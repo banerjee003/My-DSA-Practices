@@ -89,6 +89,7 @@ gcc filename.c -o output
 | [0646-maximum-length-of-pair-chain](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/banerjee003/My-DSA-Practices/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/banerjee003/My-DSA-Practices/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0877-stone-game) |
@@ -424,6 +425,7 @@ gcc filename.c -o output
 | [0496-next-greater-element-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0496-next-greater-element-i) |
 | [0636-exclusive-time-of-functions](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/banerjee003/My-DSA-Practices/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/1021-remove-outermost-parentheses) |
@@ -469,6 +471,7 @@ gcc filename.c -o output
 | [0042-trapping-rain-water](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/banerjee003/My-DSA-Practices/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/banerjee003/My-DSA-Practices/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/banerjee003/My-DSA-Practices/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Matrix

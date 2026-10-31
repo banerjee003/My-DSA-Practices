@@ -102,6 +102,7 @@ gcc filename.c -o output
 | [1386-cinema-seat-allocation](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1386-cinema-seat-allocation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/1464-maximum-product-of-two-elements-in-an-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/banerjee003/My-DSA-Practices/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1710-maximum-units-on-a-truck](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/1710-maximum-units-on-a-truck) |
@@ -432,6 +433,7 @@ gcc filename.c -o output
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/banerjee003/My-DSA-Practices/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1910-remove-all-occurrences-of-a-substring) |
@@ -468,6 +470,7 @@ gcc filename.c -o output
 | [0084-largest-rectangle-in-histogram](https://github.com/banerjee003/My-DSA-Practices/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1081-smallest-subsequence-of-distinct-characters) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/banerjee003/My-DSA-Practices/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Matrix
 |  |
 | ------- |

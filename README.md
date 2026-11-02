@@ -78,6 +78,7 @@ gcc filename.c -o output
 | [0410-split-array-largest-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0448-find-all-numbers-disappeared-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/banerjee003/My-DSA-Practices/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/0540-single-element-in-a-sorted-array) |
@@ -242,6 +243,7 @@ gcc filename.c -o output
 | [0242-valid-anagram](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0435-non-overlapping-intervals) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/banerjee003/My-DSA-Practices/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0646-maximum-length-of-pair-chain) |
@@ -271,6 +273,7 @@ gcc filename.c -o output
 | [0096-unique-binary-search-trees](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/0189-rotate-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/banerjee003/My-DSA-Practices/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0877-stone-game) |

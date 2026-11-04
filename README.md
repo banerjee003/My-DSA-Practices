@@ -94,6 +94,7 @@ gcc filename.c -o output
 | [0835-image-overlap](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1020-number-of-enclaves) |
@@ -201,6 +202,7 @@ gcc filename.c -o output
 | [0287-find-the-duplicate-number](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0567-permutation-in-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/2149-rearrange-array-elements-by-sign) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/3867-sum-of-gcd-of-formed-pairs) |
@@ -248,6 +250,7 @@ gcc filename.c -o output
 | [0628-maximum-product-of-three-numbers](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0646-maximum-length-of-pair-chain) |
+| [0977-squares-of-a-sorted-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/1331-rank-transform-of-an-array) |

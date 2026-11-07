@@ -202,6 +202,7 @@ gcc filename.c -o output
 | [0287-find-the-duplicate-number](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/banerjee003/My-DSA-Practices/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/2149-rearrange-array-elements-by-sign) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -210,6 +211,7 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0054-spiral-matrix) |
+| [0844-backspace-string-compare](https://github.com/banerjee003/My-DSA-Practices/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1441-build-an-array-with-stack-operations) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1910-remove-all-occurrences-of-a-substring) |
@@ -388,6 +390,7 @@ gcc filename.c -o output
 | [0520-detect-capital](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/banerjee003/My-DSA-Practices/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/1021-remove-outermost-parentheses) |
@@ -434,6 +437,7 @@ gcc filename.c -o output
 | [0636-exclusive-time-of-functions](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/banerjee003/My-DSA-Practices/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/banerjee003/My-DSA-Practices/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/banerjee003/My-DSA-Practices/tree/master/1021-remove-outermost-parentheses) |

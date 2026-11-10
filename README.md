@@ -121,6 +121,7 @@ gcc filename.c -o output
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/banerjee003/My-DSA-Practices/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/banerjee003/My-DSA-Practices/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2615-sum-of-distances](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/2615-sum-of-distances) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/banerjee003/My-DSA-Practices/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -172,6 +173,7 @@ gcc filename.c -o output
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/banerjee003/My-DSA-Practices/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2615-sum-of-distances](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/2615-sum-of-distances) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -722,6 +724,7 @@ gcc filename.c -o output
 | [0567-permutation-in-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0567-permutation-in-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/banerjee003/My-DSA-Practices/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/3090-maximum-length-substring-with-two-occurrences) |

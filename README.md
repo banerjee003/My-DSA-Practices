@@ -68,6 +68,7 @@ gcc filename.c -o output
 | [0169-majority-element](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0169-majority-element) |
 | [0189-rotate-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/0239-sliding-window-maximum) |
@@ -225,6 +226,7 @@ gcc filename.c -o output
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0560-subarray-sum-equals-k) |
@@ -346,6 +348,7 @@ gcc filename.c -o output
 | [0004-median-of-two-sorted-arrays](https://github.com/banerjee003/My-DSA-Practices/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/0410-split-array-largest-sum) |
@@ -720,6 +723,7 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0567-permutation-in-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |

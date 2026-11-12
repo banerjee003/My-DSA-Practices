@@ -130,6 +130,7 @@ gcc filename.c -o output
 | [2965-find-missing-and-repeated-values](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/3069-distribute-elements-into-two-arrays-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/banerjee003/My-DSA-Practices/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/3414-maximum-score-of-non-overlapping-intervals) |

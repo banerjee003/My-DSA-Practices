@@ -133,6 +133,7 @@ gcc filename.c -o output
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/banerjee003/My-DSA-Practices/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/banerjee003/My-DSA-Practices/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/3483-unique-3-digit-even-numbers) |
@@ -237,6 +238,7 @@ gcc filename.c -o output
 | [1991-find-the-middle-index-in-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/1991-find-the-middle-index-in-array) |
 | [2615-sum-of-distances](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/2615-sum-of-distances) |
 | [3312-sorted-gcd-pair-queries](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/banerjee003/My-DSA-Practices/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/3904-smallest-stable-index-ii) |
 ## Sorting
@@ -733,6 +735,7 @@ gcc filename.c -o output
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/banerjee003/My-DSA-Practices/tree/master/3364-minimum-positive-sum-subarray) |
 ## Minimax
 |  |
 | ------- |

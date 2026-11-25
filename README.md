@@ -95,6 +95,7 @@ gcc filename.c -o output
 | [0835-image-overlap](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/banerjee003/My-DSA-Practices/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0994-rotting-oranges) |
@@ -170,6 +171,7 @@ gcc filename.c -o output
 | [0560-subarray-sum-equals-k](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0645-set-mismatch) |
+| [0904-fruit-into-baskets](https://github.com/banerjee003/My-DSA-Practices/tree/master/0904-fruit-into-baskets) |
 | [1096-brace-expansion-ii](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -736,6 +738,7 @@ gcc filename.c -o output
 | [0209-minimum-size-subarray-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/banerjee003/My-DSA-Practices/tree/master/0904-fruit-into-baskets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/banerjee003/My-DSA-Practices/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |

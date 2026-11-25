@@ -108,6 +108,7 @@ gcc filename.c -o output
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/banerjee003/My-DSA-Practices/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1710-maximum-units-on-a-truck](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/1710-maximum-units-on-a-truck) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -234,6 +235,7 @@ gcc filename.c -o output
 | [0410-split-array-largest-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/banerjee003/My-DSA-Practices/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1991-find-the-middle-index-in-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/1991-find-the-middle-index-in-array) |

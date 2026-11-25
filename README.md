@@ -285,6 +285,7 @@ gcc filename.c -o output
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/banerjee003/My-DSA-Practices/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0150-evaluate-reverse-polish-notation) |

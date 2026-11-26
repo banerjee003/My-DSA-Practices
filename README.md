@@ -166,6 +166,7 @@ gcc filename.c -o output
 | [0242-valid-anagram](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/banerjee003/My-DSA-Practices/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0560-subarray-sum-equals-k) |
@@ -404,6 +405,7 @@ gcc filename.c -o output
 | [0151-reverse-words-in-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/banerjee003/My-DSA-Practices/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0443-string-compression) |
 | [0520-detect-capital](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0567-permutation-in-string) |
@@ -739,6 +741,7 @@ gcc filename.c -o output
 | [0003-longest-substring-without-repeating-characters](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/banerjee003/My-DSA-Practices/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/banerjee003/My-DSA-Practices/tree/master/0904-fruit-into-baskets) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |

@@ -99,6 +99,7 @@ gcc filename.c -o output
 | [0977-squares-of-a-sorted-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-minimum-cost-for-tickets](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/banerjee003/My-DSA-Practices/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1020-number-of-enclaves) |
 | [1200-minimum-absolute-difference](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/1260-shift-2d-grid) |
@@ -239,6 +240,7 @@ gcc filename.c -o output
 | [0410-split-array-largest-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/banerjee003/My-DSA-Practices/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/banerjee003/My-DSA-Practices/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -369,6 +371,7 @@ gcc filename.c -o output
 | [0540-single-element-in-a-sorted-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/banerjee003/My-DSA-Practices/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/banerjee003/My-DSA-Practices/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -744,6 +747,7 @@ gcc filename.c -o output
 | [0424-longest-repeating-character-replacement](https://github.com/banerjee003/My-DSA-Practices/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/banerjee003/My-DSA-Practices/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/banerjee003/My-DSA-Practices/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/banerjee003/My-DSA-Practices/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |

@@ -227,6 +227,7 @@ gcc filename.c -o output
 | [2073-time-needed-to-buy-tickets](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
@@ -310,6 +311,7 @@ gcc filename.c -o output
 | [3312-sorted-gcd-pair-queries](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/3348-smallest-divisible-digit-product-ii) |
+| [3360-stone-removal-game](https://github.com/banerjee003/My-DSA-Practices/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/banerjee003/My-DSA-Practices/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/3513-number-of-unique-xor-triplets-i) |
 | [3524-find-x-value-of-array-i](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/3524-find-x-value-of-array-i) |

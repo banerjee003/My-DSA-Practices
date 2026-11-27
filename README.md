@@ -163,6 +163,7 @@ gcc filename.c -o output
 | [0003-longest-substring-without-repeating-characters](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/banerjee003/My-DSA-Practices/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/banerjee003/My-DSA-Practices/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0347-top-k-frequent-elements) |
@@ -403,6 +404,7 @@ gcc filename.c -o output
 | [0044-wildcard-matching](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/banerjee003/My-DSA-Practices/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/banerjee003/My-DSA-Practices/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Easy/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0151-reverse-words-in-a-string) |
@@ -742,6 +744,7 @@ gcc filename.c -o output
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Medium/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/banerjee003/My-DSA-Practices/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/banerjee003/My-DSA-Practices/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/banerjee003/My-DSA-Practices/tree/master/Difficulty:%20Hard/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/banerjee003/My-DSA-Practices/tree/master/0424-longest-repeating-character-replacement) |
